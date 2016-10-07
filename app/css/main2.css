@@ -5134,14 +5134,53 @@ a.text-danger:focus, a.text-danger:hover {
   padding: 15px;
   padding-left: 86px; }
 
-.box .abz-5 {
+.paragraph_card-1 {
+  font-family: "HelveticaLight", Helvetica, sans-serif;
+  color: #a59478;
+  text-align: center; }
+
+.paragraph_card-2 {
+  font-family: "HelveticaLight", Helvetica, sans-serif;
+  color: #a59478;
+  text-align: center; }
+
+.paragraph_card-3 {
+  font-family: "HelveticaLight", Helvetica, sans-serif;
+  color: #a59478;
+  text-align: center; }
+
+.paragraph_card-4 {
+  font-family: "HelveticaLight", Helvetica, sans-serif;
+  color: #a59478;
+  text-align: center; }
+
+.abz-card-1 {
   font-family: "HelveticaBold", sans-serif;
   color: #767676;
-  font-size: 15px;
   font-weight: bold;
-  position: relative;
-  top: 20px;
-  left: 100px; }
+  text-align: center;
+  padding-top: 20px; }
+
+.abz-card-2 {
+  font-family: "HelveticaBold", sans-serif;
+  color: #767676;
+  font-weight: bold;
+  text-align: center;
+  padding-top: 20px; }
+
+.abz-card-3 {
+  font-family: "HelveticaBold", sans-serif;
+  color: #767676;
+  font-weight: bold;
+  text-align: center;
+  padding-top: 20px; }
+
+.abz-card-4 {
+  font-family: "HelveticaBold", sans-serif;
+  color: #767676;
+  font-weight: bold;
+  text-align: center;
+  padding-top: 20px; }
 
 .paragraph-1 {
   font-family: "HelveticaLight", Helvetica, sans-serif;
